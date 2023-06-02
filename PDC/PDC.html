@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="PDC.css" /> 
 	<!-- Script -->
 	<script type="text/javascript" src="PDC.js"></script>
+	<script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
 	<!-- <script type="text/javascript" src="dom-to-image.js"></script> -->
 	<body>
 		
@@ -94,7 +95,7 @@
 					</div>
 				</div>
 				<!--button section  -->
-				<button type="button" class="bottombuttons" id="dow">Download Sheet</button> 
+				<button type="button" class="bottombuttons" id="dow" onclick="downloadDivAsPng()">Download Sheet</button> 
 				<button type="button" class="bottombuttons" id="save">Save Sheet</button>  
 				<button type="button"  class="bottombuttons" onclick="window.history.back()" id="Home">Back Home</button> 
 			</div> 
