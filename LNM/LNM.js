@@ -18,6 +18,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh10").innerText = " ";
@@ -38,6 +39,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh11").innerText = " ";
@@ -58,6 +60,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh20").innerText = " ";
@@ -78,6 +81,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh21").innerText = " ";
@@ -98,6 +102,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh6").innerText = " ";
@@ -118,6 +123,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh7").innerText = " ";
@@ -138,6 +144,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh22").innerText = " ";
@@ -158,6 +165,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh23").innerText = " ";
@@ -178,6 +186,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh2").innerText = " ";
@@ -198,6 +207,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh3").innerText = " ";
@@ -218,6 +228,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh24").innerText = " ";
@@ -238,6 +249,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 3 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeh25").innerText = " ";
