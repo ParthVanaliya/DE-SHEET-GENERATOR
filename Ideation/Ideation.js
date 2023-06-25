@@ -17,6 +17,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placep").innerText = " ";
@@ -37,6 +38,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placea").innerText = " ";
@@ -57,6 +59,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placel").innerText = " ";
@@ -77,6 +80,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placepo").innerText = " ";
