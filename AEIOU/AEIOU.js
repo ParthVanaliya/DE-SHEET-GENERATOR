@@ -18,6 +18,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("place").innerText = " ";
@@ -38,6 +39,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placea").innerText = " ";
@@ -58,6 +60,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeu").innerText = " ";
@@ -78,6 +81,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placei").innerText = " ";
@@ -98,6 +102,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeo").innerText = " ";
