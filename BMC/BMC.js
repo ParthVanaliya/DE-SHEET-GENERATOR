@@ -17,6 +17,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeKeyP").innerText = " ";
@@ -37,6 +38,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeKeyA").innerText = " ";
@@ -57,6 +59,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeValP").innerText = " ";
@@ -77,6 +80,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeCustR").innerText = " ";
@@ -97,6 +101,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeCustS").innerText = " ";
@@ -117,6 +122,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeKeyR").innerText = " ";
@@ -137,6 +143,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeC").innerText = " ";
@@ -157,6 +164,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeCostS").innerText = " ";
@@ -177,6 +185,7 @@ const AddStikeyNotes = () => {
 			{
 				alert("You can't add more than 9 Sticky Notes");
 				poerion1.value = "Select";
+				noteText.value = '';
 				return;
 				}else{
 				document.getElementById("placeRevS").innerText = " ";
